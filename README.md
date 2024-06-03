@@ -1,5 +1,17 @@
 # Maven-Rail-Analysis
 In the modern era of transportation, rail systems play a crucial role in ensuring efficient and reliable movement of goods and passengers. As rail networks expand and evolve, the need for comprehensive data analysis becomes paramount to optimize operations, enhance safety, and improve customer satisfaction. The Maven Rail Challenge Dashboard is a powerful tool designed to provide stakeholders with actionable insights derived from vast amounts of rail-related data.
+
+![Maven Rail Challenge](https://github.com/Adefemi010/Maven-Rail-Analysis/assets/149597242/15b4f133-add9-49ff-b613-1a48b8eaf7aa)
+
+![Maven Rail Challenge2](https://github.com/Adefemi010/Maven-Rail-Analysis/assets/149597242/7d688560-d9ad-405d-94d8-6402a282b72c)
+
+![Maven Rail Challenge3](https://github.com/Adefemi010/Maven-Rail-Analysis/assets/149597242/26bf5a11-c777-41a3-90b0-51a92cb4deb3)
+
+![Maven Rail Challenge4](https://github.com/Adefemi010/Maven-Rail-Analysis/assets/149597242/03e34f8c-6434-4689-8cf1-dc22b6fac12d)
+
+
+![Maven Rail Challenge5](https://github.com/Adefemi010/Maven-Rail-Analysis/assets/149597242/f2c18d50-eb18-4d01-8905-e3b1990a7497)
+
 # Business Requirements & Insights
 # 1.	Routes and Station Performance
 i.	Most Popular Routes: Manchester Piccadilly to Liverpool Lime Street route tops the list with a total of 4,628 passengers followed closely by London Euston to Birmingham New Street with 4,209 tickets sold.
